@@ -20,6 +20,8 @@
         <item>wallpaper_8</item>
         <item>wallpaper_9</item>
         <item>wallpaper_10</item>
+        <item>wallpaper_11</item>
+        <item>wallpaper_12</item>
     </string-array>
 
     <string-array name="wallpaper_options">
